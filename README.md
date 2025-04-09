@@ -1,6 +1,8 @@
 # ITCS5154CourseProject
 This is a prviate repository for Jacob Friedman's ML Individual Project for ITCS 5154
 
+You can view my full report and findings here in this repository: https://github.com/jfriedmanedu/ITCS5154CourseProject/blob/main/CourseProject_Report_JFriedman.pdf
+
 You can explore my full results from each phase of the experiment in technical detail by download a ZIP file of my repository here: https://drive.google.com/file/d/1LzDU15YS36MZt0P-WAzUiccBF0tlqe2t/view?usp=sharing
 
 ## Project Goal 
