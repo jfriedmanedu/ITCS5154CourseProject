@@ -1,5 +1,5 @@
 # ITCS5154CourseProject
-This is a prviate repository for Jacob Friedman's ML Individual Project for ITCS 5154
+This is a public repository for Jacob Friedman's ML Individual Project for ITCS 5154
 
 ---
 https://github.com/user-attachments/assets/c54ef9d1-3b35-4274-be13-97bb5b8d99c9
