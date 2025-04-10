@@ -4,6 +4,8 @@ This is a public repository for Jacob Friedman's ML Individual Project for ITCS 
 ---
 https://github.com/user-attachments/assets/c54ef9d1-3b35-4274-be13-97bb5b8d99c9
 
+You can download my presetnation here: https://github.com/jfriedmanedu/ITCS5154CourseProject/blob/main/CourseProject_Presentation_JFriedman.mp4
+
 You can view my presentation slides here: https://github.com/jfriedmanedu/ITCS5154CourseProject/blob/main/CourseProject_Presentation_Slides_JFriedman.pdf
 
 You can view my full report and findings here in this repository: https://github.com/jfriedmanedu/ITCS5154CourseProject/blob/main/CourseProject_Report_JFriedman.pdf
