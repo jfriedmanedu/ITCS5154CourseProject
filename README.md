@@ -16,7 +16,7 @@ You can explore my full results from each phase of the experiment in technical d
 #### The goal of this project is to reimplement the agent used in the paper **"A Context-Aware Approach for Detecting Worth-Checking Claims in Political Debates"** but instead of using the original implementation we are going to try an RNN implementation and a Transformer implementation. We will utilize Grid Search to find the best hyperparameters for our models. We will follow the same pre-processing steps and utilize the same data for comparative accuracy.
 
 ## Run the Project
-#### In order to run this project successfully you will need to download the template files from the templates folder. And then you will need to download the src and data directories, along with config.ini, from the Experimentation folder. Make sure to place both directories and the folder on the same level as the template notebooks. Update and adjust anything as you see fit.
+#### In order to run this project successfully you will need to download the NotebookTemplates folder. Inside that directory you will find the src and data directories along with config.ini, used with author attirbution. Make sure to maintain the current folder structure so the template notebooks can find the underlying data and src pacakges. Update and adjust anything as you see fit.
 
 ---
 #### Some code has been reused, or refactored, as originally developed by the author's of the paper. They have requested the following annotations be included:
